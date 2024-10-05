@@ -1,2 +1,2 @@
 # MPCS
-Сборник скриптов/конфигов для оптимизации Counter-Strike 2
+Collection of scripts/configs for optimizing Counter-Strike 2
